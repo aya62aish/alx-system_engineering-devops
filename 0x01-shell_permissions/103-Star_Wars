@@ -1,2 +1,2 @@
-#!/bash/bin
-telnet https://towel.blinkenlights.nl
+#!/bin/bash
+telnet towel.blinkenlights.nl
